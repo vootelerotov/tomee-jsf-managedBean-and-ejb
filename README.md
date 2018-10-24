@@ -1,6 +1,6 @@
-## Title: JSF Application that uses managed-bean and ejb
+# Fork of TomEE example, used for bug report.
 
-Fork of TomEE example, used for bug report.
+## Title: JSF Application that uses managed-bean and ejb
 
 This is a simple web-app showing how to use dependency injection in JSF managed beans using TomEE.
 

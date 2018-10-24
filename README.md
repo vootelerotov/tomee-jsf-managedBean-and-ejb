@@ -1,4 +1,4 @@
-Title: JSF Application that uses managed-bean and ejb
+## Title: JSF Application that uses managed-bean and ejb
 
 Fork of TomEE example, used for bug report.
 
